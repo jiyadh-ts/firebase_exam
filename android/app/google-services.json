@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "28853040901",
+    "project_id": "sample-e8c21",
+    "storage_bucket": "sample-e8c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28853040901:android:1044fb3bdb45ef7e82296c",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm2IOeCRlza7YbVfIYQ8Ydi3fhZf9g2Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28853040901:android:72844b4e41f6b8f482296c",
+        "android_client_info": {
+          "package_name": "com.fitness.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm2IOeCRlza7YbVfIYQ8Ydi3fhZf9g2Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28853040901:android:35dbfefb6a2c2eef82296c",
+        "android_client_info": {
+          "package_name": "com.luminar.sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm2IOeCRlza7YbVfIYQ8Ydi3fhZf9g2Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
